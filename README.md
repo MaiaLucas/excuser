@@ -18,7 +18,7 @@ npm run dev
 yarn dev
 ```
 
-Project website demo link: [ChuckNorris Facts](https://chuck-jokes-mauve.vercel.app/)
+Project website demo link: [Excuses](https://excuser-lac.vercel.app/)
 
 # Todo
 
